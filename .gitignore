@@ -1,0 +1,13 @@
+# Environments & Cache
+.venv/
+__pycache__/
+*.pyc
+*.log
+.system_generated/
+
+# Archives
+*.zip
+*.tar.gz
+
+# Raw Datasets (Exceeds GitHub 100MB limit)
+data/
